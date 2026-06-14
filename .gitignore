@@ -16,3 +16,6 @@ yarn-error.log
 .htaccess
 /database_schema.sql
 /database_seed.sql
+*.png
+composer.phar
+start.bat
